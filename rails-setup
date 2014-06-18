@@ -15,7 +15,8 @@ gem 'rb-readline'
 
 group :assets do
   gem 'sass'
-  gem 'sass-rails' 
+  gem 'sass-rails'
+  gem 'sass-rails-source-maps'
   gem 'coffee-rails'
   gem 'therubyracer', :platform => :ruby
   gem 'formtastic'
